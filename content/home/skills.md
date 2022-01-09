@@ -28,6 +28,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 90%
+  icon: css3
+  icon_pack: fab
+  name: CSS3
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
