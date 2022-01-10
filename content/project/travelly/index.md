@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Source code
+  url: https://github.com/linh15/travel-website
 url_code: ""
 url_pdf: ""
 url_slides: ""
